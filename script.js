@@ -1,2 +1,5 @@
 //your JS code here. If required.
-alret("hello World!");
+function hello() {
+	let abc = alret("hello World!");
+}
+hello();
